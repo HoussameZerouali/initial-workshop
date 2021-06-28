@@ -1,0 +1,17 @@
+.big-square {
+    padding-left: 75px;
+    padding-top: 75px;
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.small-square {
+    
+    box-sizing: content-box;
+    background: red;
+    border: 10px dashed black;
+    width: 50%;
+    height: 50%;
+
+}
