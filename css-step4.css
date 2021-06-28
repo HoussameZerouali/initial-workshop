@@ -15,3 +15,21 @@
     height: 50%;
 
 }
+
+.iteration-2 table{
+    height: 150px;
+    width: 300px;
+   
+}
+
+.iteration-2 td,tr {
+    border: 1px solid black;
+}
+
+.row-3 td{
+    column-span:3;
+}
+
+.alt-col {
+    background: grey;
+}
