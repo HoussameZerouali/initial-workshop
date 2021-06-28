@@ -33,3 +33,48 @@
 .alt-col {
     background: grey;
 }
+
+.main-div {
+    width: 300px;
+    border: 2px solid black;
+}
+
+.main-div-2 {
+    width: 300px;
+    border: 2px solid black;
+    margin-top: 2px;
+}
+
+
+.div-a {
+    margin-left: 10px;
+    background: purple;
+    width: 25%;
+    color: white;
+}
+
+.div-b {
+    margin-left: 10px;
+    background: purple;
+    width: 90%;
+    color: white;
+}
+
+.div-c {
+    margin-left: 10px;
+    background: purple;
+    width: 70%;
+    margin-left: 25%;
+    color: white;
+    text-align: right;
+
+}
+
+.div-d {
+    
+    background: purple;
+    width: 24%;
+    margin-left: 1%;
+    color: white;
+    text-align: right;
+}
